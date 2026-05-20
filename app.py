@@ -5,3 +5,5 @@ st.title("Mi primera aplicacion en python")
 st.sidebar.title("Parametros")
 
 st.write("Elaborado por jmoss")
+
+st.sidebar.image("DMC.png")
